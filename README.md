@@ -1,2 +1,2 @@
-# FlatList-Grids
+# FlatList Grids
 FlatList Grids
